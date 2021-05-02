@@ -30,7 +30,7 @@ class SidebarComponent extends React.Component {
                 <input type="text" required
                  className={classes.newNoteInput}
                  placeholder="Enter note title"
-                 onKeyUp={e => this.updateTitle(e.target.value)}
+                 onKeyUp={e => this.updateTitle(e.target.value.trim())}
                  />
                  <Button
                  disabled={this.state.title ? false : true}
