@@ -57,4 +57,4 @@ Tutorial By [FreeCodeCamp]
    [React Quill]: <https://github.com/zenoamaro/react-quill>
    [Firebase]: <https://firebase.google.com/>
    [MaterialUI]: <https://material-ui.com/>
-   [FreeCodeCamp]: <https://material-ui.com/>
+   [FreeCodeCamp]: <https://www.youtube.com/watch?v=I250xdtUvy8>
