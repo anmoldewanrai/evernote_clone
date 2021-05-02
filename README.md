@@ -1,7 +1,7 @@
 # Evernote Clone
 ## tminus5 P2
 
-[View Live Code](https://evernote-clone-p2.netlify.app/)
+[View Live](https://evernote-clone-p2.netlify.app/)
 
 ## Features
 
